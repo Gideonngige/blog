@@ -1,0 +1,28 @@
+.container h1{
+    background-color: #354649;
+    color: #E0E7E9;
+}
+.container .card h4{
+    text-align: center;
+}
+.container .card .upload-btn{
+    width: 100%;
+    background-color: #354649;
+    color: #E0E7E9;
+    margin-bottom: 10px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid  #A3C6C4;
+}
+.container .card  input{
+    margin-bottom: 10px;
+}
+.container .card .submit-btn{
+    width: 100%;
+    background-color: #A3C6C4;
+    color: #E0E7E9;
+    margin-bottom: 10px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid  #354649;
+}
