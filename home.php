@@ -28,7 +28,7 @@
           <a class="nav-link" href="javascript:void(0)">Business</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">Culture</a>
+          <a class="nav-link" href="culture.php">Culture</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="javascript:void(0)">Lifestyle</a>
@@ -91,7 +91,8 @@
     <div class="row">
         <div class="col-sm-4">
             <div class="card">
-                <img src="assets\images\bird.jpg" class="card-img-top" style="height:300px" alt="book">
+            <a href="culture.php">
+                <img src="assets\images\bird.jpg" class="card-img-top" style="height:300px" alt="book"></a>
                 <div class="card-body">
                     <p><b>Business.</b> By: John Doe 13/01/2025</p>
                     <h5 class="card-title">Lorem Birds</h5>
@@ -102,7 +103,9 @@
 
         <div class="col-sm-4">
             <div class="card">
+            <a href="culture.php">
                 <img src="assets\images\book.jpg" class="card-img-top" style="height:300px" alt="book">
+            </a>
                 <div class="card-body">
                     <p><b>Culture. </b>By: James Handrit 24/03/2025</p>
                     <h5 class="card-title">Books of Lorem</h5>
@@ -113,7 +116,8 @@
 
         <div class="col-sm-4">
             <div class="card">
-                <img src="assets\images\flower.jpg" class="card-img-top" style="height:300px" alt="book">
+            <a href="culture.php">
+                <img src="assets\images\flower.jpg" class="card-img-top" style="height:300px" alt="book"></a>
                 <div class="card-body">
                     <p><b>Lifestyle. </b>By: Jane Doe 17/02/2023</p>
                     <h5 class="card-title">Flowers of Lorem</h5>
@@ -129,12 +133,13 @@
 <!--bussiness posts-->
 <div>
     <h2>Business</h2><hr>
-    <h5 style="float:right;"><u>See all Business</u></h5><br>
+    <h5 style="float:right;"><a href="#" style="text-decoration:none;">See all Business</a></h5><br>
     <hr>
     
     <div class="row">
         <div class="col-sm-6">
-        <img src="assets\images\flower.jpg" class="card-img-top" style="height:300px" alt="book">
+        <a href="culture.php">
+        <img src="assets\images\flower.jpg" class="card-img-top" style="height:300px" alt="book"></a>
         </div>
         <div class="col-sm-6">
         <h4>By: Jane Doe 19/12/2024</h4>
@@ -152,12 +157,12 @@
 <!--culture posts-->
 <div>
     <h2>Culture</h2><hr>
-    <h5 style="float:right;"><u>See all Culture</u></h5><br>
+    <h5 style="float:right;"><a href="culture.php" style="text-decoration:none;">See all Culture</a></h5><br>
     <hr>
     
     <div class="row">
         <div class="col-sm-6">
-        <img src="assets\images\bird.jpg" class="card-img-top" style="height:300px" alt="book">
+        <a href="culture.php"><img src="assets\images\bird.jpg" class="card-img-top" style="height:300px" alt="book"></a>
         </div>
         <div class="col-sm-6">
             <h4>By: John Doe 19/12/2023</h4>
@@ -176,12 +181,12 @@
 <!--lifestyle posts-->
 <div>
     <h2>Lifestyle</h2><hr>
-    <h5 style="float:right;"><u>See all lifestyles</u></h5><br>
+    <h5 style="float:right;"><a href="#" style="text-decoration:none;">See all Lifestyle</a></h5><br>
     <hr>
     
     <div class="row">
         <div class="col-sm-6">
-        <img src="assets\images\flower.jpg" class="card-img-top" style="height:300px" alt="book">
+        <a href="culture.php"><img src="assets\images\flower.jpg" class="card-img-top" style="height:300px" alt="book"></a>
         </div>
         <div class="col-sm-6">
             <h4>By: John Ali 12/09/2023</h4>

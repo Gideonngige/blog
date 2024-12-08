@@ -51,6 +51,8 @@
                     <option value="finance">Finance</option>
                     <option value="other">Other</option>
                 </select><br>
+                <label>Title</label>
+                <input type="text" name="title" class="form-control" placeholder="Your title goes here..." required>
                 <label>Upload Image</label>
                 <input type="button" name="upload" class="upload-btn" value="Upload" required>
                 <label>Blog</label>

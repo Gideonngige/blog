@@ -1,0 +1,25 @@
+.bg-custom{
+    background-color: #354649;
+    
+}
+.nav-link{
+    color: #E0E7E9;
+}
+.modal-style{
+    background-color:#354649 ;
+    color: #E0E7E9;
+    border-radius: 5px;
+    opacity: 0.5;
+}
+.modal-style p{
+    padding: 5px;
+}
+.btn-custom{
+    background-color: #354649;
+    color: #E0E7E9;
+    float: right;
+}
+.btn-custom2{
+    background-color: #354649;
+    color: #E0E7E9;
+}
