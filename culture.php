@@ -70,10 +70,9 @@
                       <p>
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat illo, cumque quisquam explicabo omnis tempore beatae alias maiores voluptates vel, laboriosam suscipit iure optio eveniet ad minus error dolorem obcaecati!
                       </p>
-                      <img src="assets\images\comment.png" style="width:25px;height:25px" >
-                      <span data-bs-toggle="modal" data-bs-target="#myModal">17 comments</span>
-                      <button type="button" class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#commentModal">Add comment</button>
                     </details>
+                    <span data-bs-toggle="modal" data-bs-target="#myModal"><img src="assets\images\comment.png" style="width:25px;height:25px" > 17 comments</span>
+                    <button type="button" class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#commentModal">Add comment</button>
                 </div>
             </div>
         </div>
